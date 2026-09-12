@@ -1,8 +1,13 @@
-# Fly brain
+# Lobotomized fly
+
+Fewer neurons. Same pipes. No accommodations.
 
 A MaleCNS connectome simulation with a fruit-fly pixel-art video renderer.
 Compare an intact model with neuron removals on the same Flappy Bird course.
-This is offline simulation and playback, not an interactive game.
+The pipes have declined to lower their standards.
+
+No actual flies were lobotomized. This is offline simulation and playback,
+not an interactive game or a biological fly brain.
 
 ## Demo
 
