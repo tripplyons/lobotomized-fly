@@ -4,6 +4,14 @@ A MaleCNS connectome simulation with a fruit-fly pixel-art video renderer.
 Compare an intact model with neuron removals on the same Flappy Bird course.
 This is offline simulation and playback, not an interactive game.
 
+## Demo
+
+https://github.com/user-attachments/assets/ae92564b-084c-45d3-a1aa-01af28785328
+
+Selected seed-41 example with 100%, 75%, 72%, and 70% of neurons retained.
+Selected for visual variety, not as a representative retention-performance result.
+See [video details](docs/arcade-video.md#selected-example) for scores and controls.
+
 ## Run
 
 Requires Python 3.11+, [uv](https://docs.astral.sh/uv/), and FFmpeg on `PATH`.
