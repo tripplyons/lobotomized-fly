@@ -2,6 +2,8 @@
 
 Fewer neurons. Same pipes. No accommodations.
 
+Made with GPT-6 Astra.
+
 A MaleCNS connectome simulation with a fruit-fly pixel-art video renderer.
 Compare an intact model with neuron removals on the same Flappy Bird course.
 The pipes have declined to lower their standards.
